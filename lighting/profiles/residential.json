@@ -7,7 +7,7 @@
             "minFlickerLamps": 1,
             "selectionChance": 0.25,
             "flickerCount": {
-                "min": 1,
+                "min": 2,
                 "max": 4
             },
             "onTicks": 1,

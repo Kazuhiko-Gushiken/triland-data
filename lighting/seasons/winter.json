@@ -1,0 +1,9 @@
+{
+    "minDelayModifier": 3,
+    "maxDelayModifier": 6,
+    "lampsPerFlickerModifier": -7,
+    "minFlickerLampsModifier": 2,
+    "selectionChanceModifier": 0.25,
+    "flickerCountMinModifier": 1,
+    "flickerCountMaxModifier": 2
+}

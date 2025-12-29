@@ -1,6 +1,6 @@
 {
     "profile": "residential",
-    "lapSegments": [
+    "lampSegments": [
         {
             "index": 0,
             "lamps": [

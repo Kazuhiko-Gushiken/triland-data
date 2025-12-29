@@ -1,0 +1,16 @@
+{
+    "profiles": [
+        "downtown",
+        "industrial",
+        "residential"
+    ],
+    "seasons": [
+        "summer",
+        "winter",
+        "spring",
+        "autumn"
+    ],
+    "streets": [
+        "main_st"
+    ]
+}

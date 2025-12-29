@@ -1,0 +1,17 @@
+{
+    "config": {
+        "minDelayTicks": 3,
+        "maxDelayTicks": 8,
+        "flicker": {
+            "lampsPerFlicker": 10,
+            "minFlickerLamps": 2,
+            "selectionChance": 0.35,
+            "flickerCount": {
+                "min": 4,
+                "max": 8
+            },
+            "onTicks": 1,
+            "offTicks": 1
+        }
+    }
+}
